@@ -1,0 +1,210 @@
+Numar teste: 10
+Marime vector: 1000
+Valoare maxima: 10000
+Testul 1
+
+BubbleSort a sortat in  : 0.004000 secunde
+Vectorul e sortat
+
+InsertionSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+CountSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+QuickSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+MergeSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+Sortarea implicita a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+Marime vector: 1000
+Valoare maxima: 1000000
+Testul 2
+
+BubbleSort a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+InsertionSort a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+CountSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+QuickSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+MergeSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+Sortarea implicita a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+Marime vector: 1000
+Valoare maxima: 100000000
+Testul 3
+
+BubbleSort a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+InsertionSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+Sunt numere prea mari pentru a le sorta cu CountSort
+
+QuickSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+MergeSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+Sortarea implicita a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+Marime vector: 1000
+Valoare maxima: 1000000000000
+Testul 4
+
+BubbleSort a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+InsertionSort a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+Sunt numere prea mari pentru a le sorta cu CountSort
+
+QuickSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+MergeSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+Sortarea implicita a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+Marime vector: 10000
+Valoare maxima: 1000000
+Testul 5
+
+BubbleSort a sortat in  : 0.89100 secunde
+Vectorul e sortat
+
+InsertionSort a sortat in  : 0.17600 secunde
+Vectorul e sortat
+
+CountSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+QuickSort a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+MergeSort a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+Sortarea implicita a sortat in  : 0.00800 secunde
+Vectorul e sortat
+
+Marime vector: 10000
+Valoare maxima: 100000000
+Testul 6
+
+BubbleSort a sortat in  : 0.88300 secunde
+Vectorul e sortat
+
+InsertionSort a sortat in  : 0.19200 secunde
+Vectorul e sortat
+
+Sunt numere prea mari pentru a le sorta cu CountSort
+
+QuickSort a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+MergeSort a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+Sortarea implicita a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+Marime vector: 10000
+Valoare maxima: 1000000000000
+Testul 7
+
+BubbleSort a sortat in  : 0.56400 secunde
+Vectorul e sortat
+
+InsertionSort a sortat in  : 0.17200 secunde
+Vectorul e sortat
+
+Sunt numere prea mari pentru a le sorta cu CountSort
+
+QuickSort a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+MergeSort a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+Sortarea implicita a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+Marime vector: 10000
+Valoare maxima: 10000000000000000
+Testul 8
+
+BubbleSort a sortat in  : 0.79200 secunde
+Vectorul e sortat
+
+InsertionSort a sortat in  : 0.16800 secunde
+Vectorul e sortat
+
+Sunt numere prea mari pentru a le sorta cu CountSort
+
+QuickSort a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+MergeSort a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+Sortarea implicita a sortat in  : 0.00400 secunde
+Vectorul e sortat
+
+Marime vector: 100000
+Valoare maxima: 1000
+Testul 9
+
+Sunt prea multe numere pentru a fi sortate cu BubbleSort
+
+Sunt prea multe numere pentru a fi sortate cu InsertionSort
+
+CountSort a sortat in  : 0.00000 secunde
+Vectorul e sortat
+
+QuickSort a sortat in  : 0.08400 secunde
+Vectorul e sortat
+
+MergeSort a sortat in  : 0.02000 secunde
+Vectorul e sortat
+
+Sortarea implicita a sortat in  : 0.02000 secunde
+Vectorul e sortat
+
+Marime vector: 100000
+Valoare maxima: 100000000
+Testul 10
+
+Sunt prea multe numere pentru a fi sortate cu BubbleSort
+
+Sunt prea multe numere pentru a fi sortate cu InsertionSort
+
+Sunt numere prea mari pentru a le sorta cu CountSort
+
+QuickSort a sortat in  : 0.02800 secunde
+Vectorul e sortat
+
+MergeSort a sortat in  : 0.02400 secunde
+Vectorul e sortat
+
+Sortarea implicita a sortat in  : 0.02400 secunde
+Vectorul e sortat
